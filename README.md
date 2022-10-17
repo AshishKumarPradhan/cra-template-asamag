@@ -1,3 +1,9 @@
+# Clean CRA Template
+
+Clean CRA Template
+All logos and icons are removed
+SASS and express added
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
