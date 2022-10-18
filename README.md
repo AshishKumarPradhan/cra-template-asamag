@@ -1,12 +1,14 @@
 # How to use
 
-Do not install!!!, use as template => npx create-react-app [name] --template asaxtemp.
+Do not install!!!, use as template :
+
+### `npx create-react-app [name] --template asaxtemp`
 
 # Clean CRA Template
 
-Clean CRA Template
-All logos and icons are removed
-SASS and express added
+Clean CRA Template.
+All logos and icons are removed.
+SASS added.
 
 # Getting Started with Create React App
 
