@@ -1,3 +1,7 @@
+# How to use
+
+Do not install!!!, use as template => npx create-react-app [name] --template asaxtemp.
+
 # Clean CRA Template
 
 Clean CRA Template
