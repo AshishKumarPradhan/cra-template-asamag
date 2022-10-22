@@ -2,7 +2,7 @@
 
 Do not install!!!, use as template :
 
-### `npx create-react-app [name] --template asaxtemp`
+### `npx create-react-app [name/location] --template asaxtemp`
 
 # Clean CRA Template
 
